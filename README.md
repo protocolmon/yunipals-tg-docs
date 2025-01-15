@@ -12,7 +12,7 @@ We’re in an **early alpha** stage, focusing on:
 ## Latest Community Update
 
 We’ve published our first blog-style update detailing the new core loop, meta progression, and the short term development plan.  
-- **[Community Update #1](docs/updates/2023-09-update-1.md)**
+- **[Community Update #1](docs/updates/2025-01-update.md)**
 
 ## How to Contribute or Stay Informed
 
